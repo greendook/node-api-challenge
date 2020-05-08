@@ -40,13 +40,23 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Mention two parts of Express that you learned about this week.
 
+  It adds functionality such a routing and middleware support. Express manages routing, sessions, http requests, and error handling very easy.
+
 - [ ] Describe Middleware?
+
+  Middleware unifies applications, tools, and databases.
 
 - [ ] Describe a Resource?
 
+  A resource is data within the API, an object with data, and methods that operate on it. CRUD operations can be preformed on it.
+
 - [ ] What can the API return to help clients know if a request was successful?
 
+  An APi can return response status codes.
+
 - [ ] How can we partition our application into sub-applications?
+
+  Expresses uses server side routing, which helps keeps thing clean. It allows specific files, routes, to perform crud operations.
 
 ## Minimum Viable Product
 
